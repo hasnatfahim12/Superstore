@@ -1,17 +1,13 @@
-Hello. My name is Hasnat Fahim and This was my attempt at completing the
-Take-home task for interview At ALDI SÜD for the role of Frontend Developer.
+This is a small dash website to showcase data of a superstore, created based on the file "Sample - Superstore.xlsw".
 
 To run the project, you need to install dash, dash_mantine_components, pandas,
 openpyxl, dash_iconify and then run the app.py file.
 
-The interview was really interesting and a bit challenging for me. My task was to
-build a Superstore dashboard website based on the given excel sheet "Sample - Superstore.xlsx".
-I had to create 3 page, a home page, a page where I show the whole data table and a page that
+I created 3 page, a home page, a page where I show the whole data table and a page that
 contains a bubble chart and timeline chart.
 
-I was successfully able to create the pages per requirement. In the home page I showed some useful
-information, chart and two cards that leads the user to the graph page and data table page per
-requirement.
+In the home page I showed some useful information, chart and two cards that leads the user 
+to the graph page and data table page per requirement.
 
 In the table page I gave user a hierarchy dropdown selection option where user can
 select the region, state and city and state options gets updated based on selected region and city
@@ -24,14 +20,10 @@ could filter by start and ending date and period.
 
 Also created a sidebar for the user to navigate through the website.
 
-I couldn't fulfill every task mentioned in the instruction. I specially missed out on putting
-icon by the sidebar menu options. To put the icon I could've used dash-iconify but i missed out on it.
-Also couldn't find icon list by the dash-iconify.
-
 The main challenge of the task was working pd and dash. I haven't worked with dash before and
 I had to learn the whole flow to implement this small website. Also calculating all the values
 based on the dropdown was quite challenging as I am not used to doing this kind of calculations.
 But I learned a lot from this experience. Specially on how to deal with csv files in python and
 how to create dashboard and chart using them.
 
-I wish I could make it look more beautiful. But I am with what I've done.
+I wish I could make it look more beautiful. But I am happy with what I've done.
