@@ -1,8 +1,8 @@
 Hello. My name is Hasnat Fahim and This was my attempt at completing the
 Take-home task for interview At ALDI SÜD for the role of Frontend Developer.
 
-To run the project, you need to install dash, dash_mantine_components, pandas, openpyxl
-and then run the app.py file.
+To run the project, you need to install dash, dash_mantine_components, pandas,
+openpyxl, dash_iconify and then run the app.py file.
 
 The interview was really interesting and a bit challenging for me. My task was to
 build a Superstore dashboard website based on the given excel sheet "Sample - Superstore.xlsx".
