@@ -20,10 +20,4 @@ could filter by start and ending date and period.
 
 Also created a sidebar for the user to navigate through the website.
 
-The main challenge of the task was working pd and dash. I haven't worked with dash before and
-I had to learn the whole flow to implement this small website. Also calculating all the values
-based on the dropdown was quite challenging as I am not used to doing this kind of calculations.
-But I learned a lot from this experience. Specially on how to deal with csv files in python and
-how to create dashboard and chart using them.
 
-I wish I could make it look more beautiful. But I am happy with what I've done.
